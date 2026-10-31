@@ -1,0 +1,6 @@
+{
+  "name": "Customer Support Intelligent Agent — AI-Powered Customer Service System",
+  "description": "AI-powered customer service platform featuring intelligent FAQ grounding, support ticket tracking, customer satisfaction feedback, and admin oversight dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
